@@ -6,7 +6,7 @@ This project scrapes the Amazon Bestseller Books page and extracts data like Tit
 
 ---
 
-✨ Features
+✨ Features :
 
 ✅ Scrapes:
 
@@ -16,15 +16,16 @@ This project scrapes the Amazon Bestseller Books page and extracts data like Tit
 
 ⭐ Rating
 
-💰 Price
+💰 price
 
 
-✅ Stores:
+
+✅ Stores :
 
 Extracted data is saved in a CSV file (amazon_products.csv)
 
 
-✅ User-Friendly:
+✅ User-Friendly :
 
 Adds polite delay between requests (time.sleep(3))
 
@@ -33,7 +34,7 @@ Handles missing data gracefully
 Displays total books found per page
 
 
-🧰 Tools & Libraries Used
+🧰 Tools & Libraries Used :
 
 requests – for sending HTTP requests
 
@@ -47,7 +48,7 @@ time, warnings, re – for delays, error handling, and cleanup
 
 ---
 
-📁 Files Included
+📁 Files Included :
 
 File Name	Description
 
@@ -56,7 +57,7 @@ amazon_products.csv	Output file containing scraped data
 README.md	Project documentation (this file)
 
 
-⚙ How It Works
+⚙ How It Works :
 
 1. Sends a request to Amazon’s Bestseller Books page
 
@@ -77,10 +78,7 @@ README.md	Project documentation (this file)
 
 
 
-
-
-
-📌 Learning Outcome
+📌 Learning Outcome :
 
 Through this project, I strengthened my understanding of:
 
